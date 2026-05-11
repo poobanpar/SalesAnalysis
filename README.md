@@ -3,7 +3,8 @@ Analyzing Sales at True Colors Hardware
 
 1.What percentage of sales occurs at each store?
 52 percent of the sales occur in the downtown store and 48 percent in the uptown store. 
-<img width="584" height="437" alt="breakdown by Store" src="https://github.com/user-attachments/assets/9b4904f4-b787-4498-9931-4405776cb0c3" />
+<img width="296" height="98" alt="image" src="https://github.com/user-attachments/assets/7201c409-dde5-4462-9c4d-1a56181432b8" />
+
 
 
 
