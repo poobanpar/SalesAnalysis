@@ -17,11 +17,17 @@ Analyzing Sales at True Colors Hardware
 
 3.How much revenue does each product generate?
 
-<img width="285" height="648" alt="Breakdown by Product" src="https://github.com/user-attachments/assets/91c4520a-d7ff-4209-b24b-c509d04e085c" />
+<img width="285" height="648" alt="Breakdown by Product" src="https://github.com/user-attachments/assets/91c4520a-d7ff-4209-b24b-c509d04e085c" /> 
+
+The Slicer provides filtered data for Adhesive 1, Adhesive 2 and Adhesive 3 by their month and store breakdown. 
+<img width="1143" height="443" alt="image" src="https://github.com/user-attachments/assets/f80bb82b-85e5-4484-a633-8694480976ee" />
+
 
 4.Which products generate 80 percent of the revenue?
 
 Pareto 80–20 Principle states that for most companies 20 percent of their products generate around 80 percent of their sales. We can see this followed here too
 
 <img width="316" height="185" alt="image" src="https://github.com/user-attachments/assets/319c7e4e-b95d-454d-8af1-9f6b8891c3a2" />
+
+
 
